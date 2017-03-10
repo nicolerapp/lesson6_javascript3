@@ -4,19 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Nicole Rapp)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(We are building an application that displays a photo gallery of images and allows the users
+to navigate through the images.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://nicolerapp.github.io/lesson6_javascript3/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (a document object represents the Web page displayed in a browser.)
+2. (DOM is an example of an application programming interface.)
+3. (Window object contains methods to manipulate the web browser
+window or tab itself)
